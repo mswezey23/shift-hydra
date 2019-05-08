@@ -7,7 +7,7 @@ This program requires Node 6+, or any higher version.
 
 Download Hydra
 ```
-git clone https://github.com/tjappo/hydra-cms.git && cd hydra-cms
+git clone https://github.com/ShiftProject/shift-hydra.git && cd hydra-cms
 ```
 
 Install dependencies
